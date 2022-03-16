@@ -39,7 +39,7 @@ if (rages >= 1 || actorD.effects.find(i => i.data.label === "Rage")) {
 
         let mutation = namedfields('name', 'flavormessage')
         var mutations = [
-            mutation('Mouth', ' a grotesque set of mandibles, draining his enemies for energy'),
+            mutation('Mouth', ' a grotesque set of mandibles, draining his enemies for their salty energy goo'),
             mutation('Clamps', ' a pair of clamps *click clack*'),
             mutation('Tail', ' one sexy ass tail, making him harder to hit')
         ];
